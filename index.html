@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table id="table">
+        <tr>
+            <th>id</th>
+            <th>firstName</th>
+            <th>lastName</th>
+            <th>email</th>
+            <th>gender</th>
+            <th>company</th>
+            <th colspan="2">actions</th>
+        </tr>
+    </table>
+    <div class="container">
+        <div class="row">
+            <div class="col-25"><label for="">id</label></div>
+            <div class="col-75"><input disabled id="id" type="text"><br></div>
+        </div>
+        <div class="row">
+            <div class="col-25"><label for="">firstName</label></div>
+            <div class="col-75"><input id="firstName" type="text"><br></div>
+        </div>
+        <div class="row">
+            <div class="col-25"><label for="">lastName</label></div>
+            <div class="col-75"><input id="lastName" type="text"><br></div>
+        </div>
+        <div class="row">
+            <div class="col-25"><label for="">email</label></div>
+            <div class="col-75"><input id="email" type="text"><br></div>
+        </div>
+        <div class="row">
+            <div class="col-25"><label for="">gender</label></div>
+            <div class="col-75"><input id="gender" type="text"><br></div>
+        </div>
+        <div class="row">
+            <div class="col-25"><label for="">company</label></div>
+            <div class="col-75"><input id="company" type="text"><br></div>
+        </div>
+        <div class="row">
+            <button onclick="borrar()">Clean</button>
+            <button onclick="crear()">Accept</button>
+        </div>
+        
+    </div>
+    <script src="json/companies.json"></script>
+    <script src="json/people.json"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>

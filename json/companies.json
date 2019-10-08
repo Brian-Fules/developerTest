@@ -1,0 +1,36 @@
+companies=
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Blogtag"
+    }, {
+      "id": 2,
+      "name": "Dynabox"
+    }, {
+      "id": 3,
+      "name": "Kwilith"
+    }, {
+      "id": 4,
+      "name": "Mydeo"
+    }, {
+      "id": 5,
+      "name": "Gigazoom"
+    }, {
+      "id": 6,
+      "name": "Thoughtsphere"
+    }, {
+      "id": 7,
+      "name": "Tagcat"
+    }, {
+      "id": 8,
+      "name": "Babblestorm"
+    }, {
+      "id": 9,
+      "name": "Youspan"
+    }, {
+      "id": 10,
+      "name": "Lajo"
+    }
+  ]
+}

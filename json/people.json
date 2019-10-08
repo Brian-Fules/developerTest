@@ -1,0 +1,76 @@
+people=
+{
+  "list": [
+    {
+      "id": 1,
+      "firstName": "Graeme",
+      "lastName": "Merrisson",
+      "email": "gmerrisson0@mtv.com",
+      "gender": "Male",
+      "companyCode": 2
+    }, {
+      "id": 2,
+      "firstName": "Davita",
+      "lastName": "Kidner",
+      "email": "dkidner1@irs.gov",
+      "gender": "Female",
+      "companyCode": 6
+    }, {
+      "id": 3,
+      "firstName": "Phillipe",
+      "lastName": "Keller",
+      "email": "pkeller2@springer.com",
+      "gender": "Male",
+      "companyCode": 1
+    }, {
+      "id": 4,
+      "firstName": "Alvin",
+      "lastName": "Gabriely",
+      "email": "agabriely3@clickbank.net",
+      "gender": "Male",
+      "companyCode": 9
+    }, {
+      "id": 5,
+      "firstName": "Sonnnie",
+      "lastName": "Hutchens",
+      "email": "shutchens4@hhs.gov",
+      "gender": "Female",
+      "companyCode": 3
+    }, {
+      "id": 6,
+      "firstName": "Meris",
+      "lastName": "Syder",
+      "email": "msyder5@storify.com",
+      "gender": "Female",
+      "companyCode": 5
+    }, {
+      "id": 7,
+      "firstName": "Leelah",
+      "lastName": "Griniov",
+      "email": "lgriniov6@linkedin.com",
+      "gender": "Female",
+      "companyCode": 2
+    }, {
+      "id": 8,
+      "firstName": "Tonnie",
+      "lastName": "Romanski",
+      "email": "tromanski7@cdbaby.com",
+      "gender": "Male",
+      "companyCode": 3
+    }, {
+      "id": 9,
+      "firstName": "Haven",
+      "lastName": "Calendar",
+      "email": "hcalendar8@wsj.com",
+      "gender": "Male",
+      "companyCode": 5
+    }, {
+      "id": 10,
+      "firstName": "Freddy",
+      "lastName": "Philipp",
+      "email": "fphilipp9@indiegogo.com",
+      "gender": "Female",
+      "companyCode": 4
+    }
+  ]
+}
